@@ -1,0 +1,26 @@
+.dropdown-container {
+  font-size: x-large;
+  text-align: left;
+  position: relative;
+  border-radius: 5px;
+  background-color: #9fc3f8d3;
+}
+.dropdown-input {
+  padding: 5px;
+}
+.dropdown-menu {
+  position: relative;
+  width: 100%;
+  border-radius: 5px;
+  overflow: auto;
+  border: 1px solid #ccc;
+  max-height: 150px;
+  background-color: #fff;
+}
+.dropdown-item {
+  padding: 5px;
+  cursor: pointer;
+}
+.dropdown-item:hover {
+  background-color: #9fc3f870;
+}
