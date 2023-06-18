@@ -7,3 +7,5 @@ To run the application locally, please follow these steps:
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`
 5. Open your web browser and visit `http://localhost:3000` to access
+## Visit site: 
+https://drishya-dobriyal.github.io/react-dropdown/
